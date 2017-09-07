@@ -1,0 +1,22 @@
+{
+  "name": "stock",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Zhang",
+    "Xiangnan <z@zhangxiangnan.cn>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SailorZhang/Stock",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "adminLTE#^2.3.11",
+    "bootstrap": "^3.3.7"
+  }
+}
